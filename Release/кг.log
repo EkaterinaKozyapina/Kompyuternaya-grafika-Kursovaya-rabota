@@ -1,0 +1,14 @@
+﻿  Source.cpp
+E:\SUAI\5 sem\кг кр\кг\base.h(52,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\SUAI\5 sem\кг кр\кг\base.h(53,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\SUAI\5 sem\кг кр\кг\base.h(54,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\SUAI\5 sem\кг кр\кг\shadow.h(23,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\SUAI\5 sem\кг кр\кг\shadow.h(24,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\SUAI\5 sem\кг кр\кг\shadow.h(25,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+E:\SUAI\5 sem\кг кр\кг\Source.cpp(40,15): warning C4305: аргумент: усечение из "double" в "float"
+E:\SUAI\5 sem\кг кр\кг\Source.cpp(43,15): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 96 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  кг.vcxproj -> E:\SUAI\5 sem\кг кр\кг\Release\кг.exe
